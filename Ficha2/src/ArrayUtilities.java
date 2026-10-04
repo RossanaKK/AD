@@ -29,7 +29,7 @@ public class ArrayUtilities {
             copia[i] = array[i];
         }
         System.out.print("Cópia do array: ");
-        toString(copia); // Usa o seu método para imprimir os parênteses retos
+        toString(copia);
     }
     public static void contains(int[] array, int numero) {
         boolean existe = false;
